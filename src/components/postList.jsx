@@ -7,6 +7,7 @@ function PoastList() {
         .then(res=>res.json())
         .then((data)=>{
             console.log(data)
+            
             setdata(data)
         })  
     },[])
