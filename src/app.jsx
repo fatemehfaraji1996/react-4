@@ -11,6 +11,9 @@ export function App() {
     <>
     
     <PoastList/>
+
+
+    
     <Random/>
     </>
   )
